@@ -1,0 +1,11 @@
+[30-May-2023 09:39:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'srisadgu_Antham'@'localhost' (using password: YES) in /home/srisadgu/public_html/Antham/Admin/pages/db.php on line 8
+[30-May-2023 09:42:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'srisadgu_Antham'@'localhost' (using password: YES) in /home/srisadgu/public_html/Antham/Admin/pages/db.php on line 8
+[30-May-2023 09:49:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'srisadgu_acton'@'localhost' (using password: YES) in /home/srisadgu/public_html/Antham/Admin/pages/db.php on line 8
+[30-May-2023 09:49:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'srisadgu_acton'@'localhost' (using password: YES) in /home/srisadgu/public_html/Antham/Admin/pages/db.php on line 8
+[30-May-2023 10:13:30 UTC] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/srisadgu/public_html/Antham/Admin/pages/DiabeticReports.php on line 19
+[30-May-2023 10:13:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/srisadgu/public_html/Antham/Admin/pages/DiabeticReports.php on line 19
+[30-May-2023 10:21:44 UTC] PHP Parse error:  syntax error, unexpected 'align' (T_STRING), expecting ';' or ',' in /home/srisadgu/public_html/Antham/Admin/pages/DiabeticReports.php on line 296
+[30-May-2023 10:30:55 UTC] PHP Notice:  Undefined variable: result in /home/srisadgu/public_html/Antham/Admin/pages/DiabeticReports.php on line 265
+[30-May-2023 10:30:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srisadgu/public_html/Antham/Admin/pages/DiabeticReports.php on line 265
+[30-May-2023 10:31:26 UTC] PHP Notice:  Undefined variable: result in /home/srisadgu/public_html/Antham/Admin/pages/DiabeticReports.php on line 265
+[30-May-2023 10:31:26 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srisadgu/public_html/Antham/Admin/pages/DiabeticReports.php on line 265

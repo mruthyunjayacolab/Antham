@@ -1,0 +1,8 @@
+[03-Jun-2023 07:26:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'srisadgu_Anthamt'@'localhost' (using password: YES) in /home/srisadgu/public_html/Antham/Admin/pages/excel/ex/DBController.php on line 13
+[03-Jun-2023 07:26:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/srisadgu/public_html/Antham/Admin/pages/excel/ex/DBController.php on line 17
+[03-Jun-2023 07:26:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/srisadgu/public_html/Antham/Admin/pages/excel/ex/DBController.php on line 18
+[03-Jun-2023 07:26:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/srisadgu/public_html/Antham/Admin/pages/excel/ex/DBController.php on line 17
+[03-Jun-2023 07:26:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/srisadgu/public_html/Antham/Admin/pages/excel/ex/DBController.php on line 18
+[03-Jun-2023 07:37:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'srisadgu_Anthamt'@'localhost' (using password: YES) in /home/srisadgu/public_html/Antham/Admin/pages/excel/ex/DBController.php on line 13
+[03-Jun-2023 07:37:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/srisadgu/public_html/Antham/Admin/pages/excel/ex/DBController.php on line 17
+[03-Jun-2023 07:37:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/srisadgu/public_html/Antham/Admin/pages/excel/ex/DBController.php on line 18

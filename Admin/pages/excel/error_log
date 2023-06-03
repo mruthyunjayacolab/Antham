@@ -1,0 +1,1 @@
+[31-May-2023 05:51:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srisadgu/public_html/Antham/Admin/pages/excel/db_connect.php on line 7
